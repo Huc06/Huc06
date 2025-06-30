@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Movement, Aptos, Solidity**
+ 🌱 I’m currently learning **Move, Solidity**
 
 💬 Ask me about **Node.js, React, Mysql... or anything [here](https://github.com/Huc06)**
 
